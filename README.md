@@ -1,6 +1,6 @@
 # BackendMidterm
 
-# https://tilek-midterm.herokuapp.com/api/main
+# link to heroku: https://tilek-midterm.herokuapp.com/api/main
 
 GET ALL
 url/api/main
